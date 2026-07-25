@@ -82,24 +82,6 @@ A full-stack event management and ticket booking platform built using **React, N
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your application here.
-
-### Home Page
-
-![Home Page](./screenshots/home.png)
-
-### Event Details
-
-![Event Details](./screenshots/event-details.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-
----
-
 ## 🏛️ System Architecture
 
 ```text
